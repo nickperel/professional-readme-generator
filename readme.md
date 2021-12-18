@@ -1,9 +1,9 @@
 # Poke-Find
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
   ## Description
   
-  * Search for a Pokemon to get its base stats and corresponding Pokemon Trading Card
+  * Search pokemon for base stats and trading card
 
   ## Table of Contents
 
@@ -21,8 +21,8 @@
   *
 
   ### License Info
-  * [MIT License](https://opensource.org/licenses/MIT)
-  * A short, permissive software license. Basically, you can do whatever you want as long as you include the original copyright and license notice in any copy of the software/source.  There are many variations of this license in use.
+  * [Mozilla License](https://opensource.org/licenses/MPL-2.0)
+  * MPL is a copyleft license that is easy to comply with. You must make the source code for any of your changes available under MPL, but you can combine the MPL software with proprietary code, as long as you keep the MPL code in separate files. Version 2.0 is, by default, compatible with LGPL and GPL version 2 or greater. You can distribute binaries under a proprietary license, as long as you make the source available under MPL.
   
   ### Contributing
 
