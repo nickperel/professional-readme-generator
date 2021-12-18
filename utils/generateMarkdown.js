@@ -14,11 +14,11 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license === "IBM") {
-    return "[![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)";
+    return "[IBM License](https://opensource.org/licenses/IPL-1.0)";
   } else if (license === "MIT") {
-    return "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)";
+    return "[MIT License](https://opensource.org/licenses/MIT)";
   } else if (license === "Mozilla") {
-    return "[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)";
+    return "[Mozilla License](https://opensource.org/licenses/MPL-2.0)";
   }
 }
 
@@ -41,6 +41,37 @@ function generateMarkdown(answers) {
   ## Description
   
   * ${answers.description}
+
+  ## Table of Contents
+
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Credits](#credits)
+  * [License](#license)
+
+  ### Installation
+  
+  * ${answers.installations}
+
+  ### Usage
+
+  *
+
+  ### License Info
+  * ${renderLicenseLink(answers.license)}
+  * ${renderLicenseSection(answers.license)}
+  
+  ### Contributing
+
+  *
+
+  ### Tests
+
+  *
+
+  ### Further Questions?
+
+  *
 `;
 }
 

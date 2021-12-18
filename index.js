@@ -20,11 +20,17 @@ const questions = [
         name: 'license',
         message: 'Which license would you like to apply?',
         choices: ['IBM', 'MIT', 'Mozilla']
-    }
+    },
+    {
+        type: 'input',
+        name: 'installations',
+        message: 'Specify which installations are necessary to get your app up and running: (If none, just press enter!)',
+        default: 'None'
+    },
 ];
 
 // TODO: Create a function to write README file
-// function writeToFile(fileName, data) {}
+function generateTableOfContents(answers) {}
 
 
 // TODO: Create a function to initialize app
