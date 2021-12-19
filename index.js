@@ -27,6 +27,11 @@ const questions = [
         message: 'Specify which installations are necessary to get your app up and running: (If none, just press enter!)',
         default: 'None'
     },
+    {
+        type: 'input',
+        name: 'usage',
+        message: 'Please specify any instructions for the usage of your app / examples for use. Include screenshots as needed:'
+    },
 ];
 
 // TODO: Create a function to write README file

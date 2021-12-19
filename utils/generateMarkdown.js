@@ -55,7 +55,7 @@ function generateMarkdown(answers) {
 
   ### Usage
 
-  *
+  * ${answers.usage}
 
   ### License Info
   * ${renderLicenseLink(answers.license)}
