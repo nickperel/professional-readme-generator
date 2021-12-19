@@ -38,7 +38,16 @@ const questions = [
         message: 'If you would like other developers to contribute to your application, please specify the guidelines they should follow in order to do so: (If you would like to apply The Contributor Covenant guidelines, just press enter!)',
         default: '[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)'
     },
-    
+    {
+        type: 'input',
+        name: 'gitHubUsername',
+        message: 'Please enter your GitHub username in case people would like to reference it:'
+    },
+    {
+        type: 'input',
+        name: 'email',
+        message: 'Please enter your email address in case people would like to contact you with further questions:'
+    }
 ];
 
 // TODO: Create a function to write README file

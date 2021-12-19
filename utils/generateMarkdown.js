@@ -71,7 +71,10 @@ function generateMarkdown(answers) {
 
   ### Further Questions?
 
-  *
+  * Link to GitHub: https://github.com/${answers.gitHubUsername}
+
+  * If you have further questions, feel free to email me at this address & I will get back to you as soon as I can: ${answers.email}
+
 `;
 }
 
