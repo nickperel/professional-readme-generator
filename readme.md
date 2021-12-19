@@ -3,7 +3,7 @@
 
   ## Description
   
-  * search
+  * search pokemon get stats and card
 
   ## Table of Contents
 
@@ -14,11 +14,11 @@
 
   ### Installation
   
-  * Inquirer
+  * inquirer
 
   ### Usage
 
-  * search pokemon, add to saved cards, view saved cards
+  * save the cards you like and then view your saved cards on separate page
 
   ### License Info
   * [IBM License](https://opensource.org/licenses/IPL-1.0)
@@ -26,7 +26,7 @@
   
   ### Contributing
 
-  *
+  * [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
   ### Tests
 

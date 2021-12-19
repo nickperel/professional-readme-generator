@@ -32,6 +32,13 @@ const questions = [
         name: 'usage',
         message: 'Please specify any instructions for the usage of your app / examples for use. Include screenshots as needed:'
     },
+    {
+        type: 'input',
+        name: 'contributing',
+        message: 'If you would like other developers to contribute to your application, please specify the guidelines they should follow in order to do so: (If you would like to apply The Contributor Covenant guidelines, just press enter!)',
+        default: '[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)'
+    },
+    
 ];
 
 // TODO: Create a function to write README file

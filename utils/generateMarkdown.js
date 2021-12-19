@@ -63,7 +63,7 @@ function generateMarkdown(answers) {
   
   ### Contributing
 
-  *
+  * ${answers.contributing}
 
   ### Tests
 
