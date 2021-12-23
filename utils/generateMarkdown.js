@@ -67,7 +67,7 @@ function generateMarkdown(answers) {
 
   ### Tests
 
-  *
+  * ${answers.test}
 
   ### Further Questions?
 

@@ -3,7 +3,7 @@
 
   ## Description
   
-  * Search for a Pokemon to pull up its base stats and its corresponding Pokemon card. If you like the card, you can save it to your Poke-Deck and view it later.
+  * search pokemon get stats and card
 
   ## Table of Contents
 
@@ -14,11 +14,11 @@
 
   ### Installation
   
-  * Inquirer
+  * inquirer
 
   ### Usage
 
-  * Search for a pokemon and if you like its trading card, you can save the card to your deck by clicking 'save card.' Then, if you would like to view your saved cards, you can click on the 'view saved cards' button to be taken to a different page that displays all of the cards that you have saved there.
+  * blah
 
   ### License Info
   * [MIT License](https://opensource.org/licenses/MIT)
@@ -30,7 +30,7 @@
 
   ### Tests
 
-  *
+  * "npm run test"
 
   ### Further Questions?
 

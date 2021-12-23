@@ -47,6 +47,12 @@ const questions = [
         type: 'input',
         name: 'email',
         message: 'Please enter your email address in case people would like to contact you with further questions:'
+    },
+    {
+        type: 'input',
+        name: 'test',
+        message: 'Please describe how you would like users to run tests for your application: (Press Enter for Default test through Jest',
+        default: 'npm run test'
     }
 ];
 
