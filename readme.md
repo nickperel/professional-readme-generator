@@ -3,14 +3,14 @@
 
   ## Description
   
-  * search for pokemon, get base stats and corresponding trading card
+  * Search for Pokemon to get its base stats and trading card
 
   ## Table of Contents
 
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)
-  * [License Info](#license_info)
+  * [License Info](#license)
 
   ### Installation
   
@@ -18,7 +18,7 @@
 
   ### Usage
 
-  * self explanatory
+  * Self Explanatory
 
   ### License Info
   * [MIT License](https://opensource.org/licenses/MIT)
