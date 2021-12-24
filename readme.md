@@ -1,40 +1,9 @@
-# Poke-Find
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Challenge 9: Node.js Challenge: Professional README Generator
 
-  ## Description
-  
-  * Search for Pokemon to get its base stats and its corresponding trading card.
+## Description
 
-  ## Table of Contents
+This week, I was given starter code and was tasked with creating a Professional README Generator from the command line only using Node.js. Using inquirer, this application should prompt the users for information regarding the project that they would like to generate the README file for, inlcuding the project title, description, installation instructions, usage instructions, license options to choose from, how to contribute, how to run tests, and a section for further questions. The README created should also have a functioning table of contents feature as well.
 
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Contributing](#contributing)
-  * [License Info](#license-info)
+ ## Walkthrough Video
 
-  ### Installation
-  
-  * inquirer
-
-  ### Usage
-
-  * If you search for a Pokemon and like its card, you have the ability to save that card to your Poke-Deck. Then, you are able to view all the cards you chose to save from the Poke-Deck page later on!
-
-  ### License Info
-  * [MIT License](https://opensource.org/licenses/MIT)
-  * A short, permissive software license. Basically, you can do whatever you want as long as you include the original copyright and license notice in any copy of the software/source.  There are many variations of this license in use.
-  
-  ### Contributing
-
-  * [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
-
-  ### Tests
-
-  * npm run test
-
-  ### Further Questions?
-
-  * Link to GitHub: https://github.com/nickperel
-
-  * If you have further questions, feel free to email me at this address & I will get back to you as soon as I can: nickperel@live.com
-
+ - https://watch.screencastify.com/v/DdOced94YX1Hs7Gy175J 
