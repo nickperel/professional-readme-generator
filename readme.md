@@ -3,7 +3,7 @@
 
   ## Description
   
-  * Search for Pokemon to get its base stats and trading card
+  * Search for Pokemon to get its base stats and its corresponding trading card.
 
   ## Table of Contents
 
@@ -18,7 +18,7 @@
 
   ### Usage
 
-  * Self Explanatory
+  * If you search for a Pokemon and like its card, you have the ability to save that card to your Poke-Deck. Then, you are able to view all the cards you chose to save from the Poke-Deck page later on!
 
   ### License Info
   * [MIT License](https://opensource.org/licenses/MIT)
