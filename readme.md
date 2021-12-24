@@ -3,14 +3,14 @@
 
   ## Description
   
-  * search pokemon get stats and card
+  * search for pokemon, get base stats and corresponding trading card
 
   ## Table of Contents
 
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Credits](#credits)
-  * [License](#license)
+  * [Contributing](#contributing)
+  * [License Info](#license_info)
 
   ### Installation
   
@@ -18,7 +18,7 @@
 
   ### Usage
 
-  * blah
+  * self explanatory
 
   ### License Info
   * [MIT License](https://opensource.org/licenses/MIT)
@@ -30,7 +30,7 @@
 
   ### Tests
 
-  * "npm run test"
+  * npm run test
 
   ### Further Questions?
 

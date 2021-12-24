@@ -46,8 +46,8 @@ function generateMarkdown(answers) {
 
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Credits](#credits)
-  * [License](#license)
+  * [Contributing](#contributing)
+  * [License Info](#license_info)
 
   ### Installation
   
